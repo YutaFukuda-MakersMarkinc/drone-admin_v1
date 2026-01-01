@@ -1,5 +1,13 @@
 import "./globals.css";
 
+export const metadata = {
+  title: {
+    default: "ドローン撮影画像（画像・動画）のAI解析システム",
+    template: "%s | ドローン撮影画像（画像・動画）のAI解析システム",
+  },
+};
+
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ja">

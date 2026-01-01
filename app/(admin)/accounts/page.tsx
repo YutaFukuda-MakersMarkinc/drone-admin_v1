@@ -1,3 +1,8 @@
+// アカウント管理
+export const metadata = {
+  title: "アカウント管理 | ドローン撮影画像（画像・動画）のAI解析システム",
+};
+
 export default function AccountsPage() {
   return (
     <div className="space-y-6">

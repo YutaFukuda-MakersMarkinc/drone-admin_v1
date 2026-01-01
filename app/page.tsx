@@ -1,3 +1,8 @@
+// ログイン
+export const metadata = {
+  title: "ログイン | ドローン撮影画像（画像・動画）のAI解析システム",
+};
+
 export default function LoginPage() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50">

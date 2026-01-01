@@ -1,3 +1,8 @@
+// 通知先設定
+export const metadata = {
+  title: "ダッシュボード | ドローン撮影画像（画像・動画）のAI解析システム",
+};
+
 export default function DashboardPage() {
   return (
     <div className="space-y-6">

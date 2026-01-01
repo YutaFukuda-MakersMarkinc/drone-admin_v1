@@ -1,3 +1,8 @@
+// アカウント新規登録
+export const metadata = {
+  title: "アカウント新規登録 | ドローン撮影画像（画像・動画）のAI解析システム",
+};
+
 export default function AccountCreatePage() {
   return (
     <div className="space-y-6">

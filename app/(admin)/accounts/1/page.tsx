@@ -1,3 +1,8 @@
+// アカウント編集
+export const metadata = {
+  title: "アカウント編集 | ドローン撮影画像（画像・動画）のAI解析システム",
+};
+
 export default function AccountEditPage() {
   return (
     <div className="space-y-6">
