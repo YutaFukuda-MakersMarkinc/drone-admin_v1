@@ -102,8 +102,7 @@ export default function Sidebar() {
           ⏰ フライトスケジュール
         </button>
         <div x-show="isOpen('schedules')" x-transition class="pl-6 text-xs text-gray-600 space-y-1">
-          <a href="/schedules" class="block py-1">一覧</a>
-          <a href="/schedules/new" class="block py-1">新規追加</a>
+          <a href="/schedules" class="block py-1">編集</a>
         </div>
       </div>
 
